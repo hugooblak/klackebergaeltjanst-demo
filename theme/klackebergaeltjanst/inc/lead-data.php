@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Kläckeberga Eltjänst AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '073-847 07 66',
 	'telefon_tel'    => '+46738470766',
 	'ort'            => 'Rockneby',
